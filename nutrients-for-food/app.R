@@ -14,7 +14,7 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 
-nutrients_csvfile <- read.csv("C:/Users/Katherine Guo/Desktop/info 201/PS06-Create-an-app/nutrients_csvfile.csv")
+nutrients_csvfile <- read.csv("nutrients_csvfile.csv")
 ui <- fluidPage(
   titlePanel("Nutritional Facts for most common foods"),
   

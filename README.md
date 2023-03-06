@@ -13,3 +13,6 @@ This assignment creates a Shiny app that allows users to explore a dataset of nu
 
 This app reads in a CSV file of the dataset and uses the following packages: shinyWidgets, shiny, rsconnect, dplyr, ggplot2, and readr.
 
+
+The link to my shiny app:
+https://iloveguodanpi.shinyapps.io/common-foods-nutrients/
